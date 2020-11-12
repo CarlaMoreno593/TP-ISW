@@ -1,6 +1,3 @@
-Prueba
-Prueba 3
-
 Trabajo práctico para la cátedra Ingeniería de Software - UTN FRSF
 
 ### Integrantes:

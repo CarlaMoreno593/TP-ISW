@@ -1,7 +1,5 @@
-# Tp-ISW
-Trabajo Practico Grupo 8.
+Prueba
 
-# ISW-2020
 Trabajo práctico para la cátedra Ingeniería de Software - UTN FRSF
 
 ### Integrantes:

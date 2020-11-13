@@ -9,7 +9,6 @@ import frsf.isi.died.guia08.problema01.modelo.Empleado;
 import frsf.isi.died.guia08.problema01.modelo.Tarea;
 
 //Modificación para el inciso A
-//Prueba del revert
 
 public class AppRRHH {
 

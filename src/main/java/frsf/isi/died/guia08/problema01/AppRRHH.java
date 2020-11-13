@@ -11,7 +11,7 @@ import frsf.isi.died.guia08.problema01.modelo.Tarea;
 //Modificación para el inciso A
 
 //Commit 1:
-//Commit 2:
+
 public class AppRRHH {
 
 	private List<Empleado> empleados;
